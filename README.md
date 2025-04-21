@@ -8,11 +8,6 @@
 pip install -r requirements.txt
 ```
 
-## Çalıştırma
-
-```bash
-uvicorn app.main:app --reload
-```
 
 ## Ortam Değişkeni
 
