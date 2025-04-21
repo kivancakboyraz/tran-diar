@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydub
+whisper
+pyannote.audio
+numpy
